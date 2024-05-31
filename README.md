@@ -1,2 +1,8 @@
-# SumitScriptsHub
-SumitScripts Hub is A best Mobile/Pc Roblox Exploit hub, Created By SumitScripts
+# SumitScripts Hub
+Supported Games
+- Blade-Ball (Don't Works With Solara)
+- Others Soon
+#### Exploits Executors
+- Codex - https://www.Codex.lol/
+- delta - https://delta-executor.com/
+- Works With All Executors (Don't Works With Solara)
